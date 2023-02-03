@@ -1,0 +1,42 @@
+body {
+
+
+     font-family: 'Nunito', sans-serif;
+
+
+}
+
+.Footer {
+
+
+
+     text-align: center;
+     color: black;
+     padding: 40px;
+     background-color: whitesmoke;
+
+
+
+}
+
+.headline {
+
+
+
+     text-align: center;
+     padding: 0;
+     margin: 0;
+
+
+
+}
+
+
+.nav-item {
+
+     text-align: right;
+
+
+
+
+}
